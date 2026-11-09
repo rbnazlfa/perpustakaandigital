@@ -6,5 +6,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 2. [Implementasi TI](ebook/Implementasi%20TI.pdf)-Muhammad Fiqry Taufiqurrahman
 3. [Jurnal Psikologi](ebook/Jurnal%20Psikologi.pdf)-Asrini Mahdia
 4. [Media Sosial](ebook/Media%20Sosial.pdf)-Lailatur Rahmi
+5. [Minat Baca](ebook/Minat%20Baca.pdf)-Miftahul Jannah
 ---
 Powered by GitHub Pages
