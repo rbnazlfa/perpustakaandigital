@@ -11,5 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Pengaruh Desain](ebook/Pengaruh%20Desain.pdf)-Sri Wahyuni Panjaitan
 8. [Perpustakaan](ebook/Perpustakaan.pdf)-Rubbina
 9. [Transformasi](ebook/Transformasi.pdf)-Mohamad Djaenudin
+10. [Visualisasi](ebook/Visualisasi.pdf)-Anton Risparyanto
 
 Powered by GitHub Pages
