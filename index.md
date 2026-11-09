@@ -10,5 +10,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Pencarian Informasi](ebook/Pencarian%20Informasi.pdf)-Muhammad Nurfadillah
 7. [Pengaruh Desain](ebook/Pengaruh%20Desain.pdf)-Sri Wahyuni Panjaitan
 8. [Perpustakaan](ebook/Perpustakaan.pdf)-Rubbina
+9. [Transformasi](ebook/Transformasi.pdf)-Mohamad Djaenudin
 
 Powered by GitHub Pages
