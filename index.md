@@ -7,5 +7,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Jurnal Psikologi](ebook/Jurnal%20Psikologi.pdf)-Asrini Mahdia
 4. [Media Sosial](ebook/Media%20Sosial.pdf)-Lailatur Rahmi
 5. [Minat Baca](ebook/Minat%20Baca.pdf)-Miftahul Jannah
+6. [Pencarian Informasi](ebook/Pencarian%20Informasi.pdf)-Muhammad Nurfadillah
 ---
 Powered by GitHub Pages
