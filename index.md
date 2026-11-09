@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Perpustakaan](ebook/Perpustakaan.pdf)-Rubbina
 9. [Transformasi](ebook/Transformasi.pdf)-Mohamad Djaenudin
 10. [Visualisasi](ebook/Visualisasi.pdf)-Anton Risparyanto
+11. [Rubbina Azzalfa_13040124140118_Resume](ebook/Rubbina%20Azzalfa_13040124140118_Resume.pdf)-Rubbina
 
 Powered by GitHub Pages
