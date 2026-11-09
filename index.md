@@ -9,5 +9,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [Minat Baca](ebook/Minat%20Baca.pdf)-Miftahul Jannah
 6. [Pencarian Informasi](ebook/Pencarian%20Informasi.pdf)-Muhammad Nurfadillah
 7. [Pengaruh Desain](ebook/Pengaruh%20Desain.pdf)-Sri Wahyuni Panjaitan 
----
 Powered by GitHub Pages
