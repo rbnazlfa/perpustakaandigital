@@ -8,8 +8,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Media Sosial](ebook/Media%20Sosial.pdf)-Lailatur Rahmi (2023)
 5. [Minat Baca](ebook/Minat%20Baca.pdf)-Miftahul Jannah (2025)
 6. [Pencarian Informasi](ebook/Pencarian%20Informasi.pdf)-Muhammad Nurfadillah (2021)
-7. [Pengaruh Desain](ebook/Pengaruh%20Desain.pdf)-Sri Wahyuni Panjaitan
-8. [Perpustakaan](ebook/Perpustakaan.pdf)-Rubbina
+7. [Pengaruh Desain](ebook/Pengaruh%20Desain.pdf)-Sri Wahyuni Panjaitan (2016)
+8. [Perpustakaan](ebook/Perpustakaan.pdf)-Rubbina (2020)
 9. [Transformasi](ebook/Transformasi.pdf)-Mohamad Djaenudin
 10. [Visualisasi](ebook/Visualisasi.pdf)-Anton Risparyanto
 11. [Rubbina Azzalfa_13040124140118_Resume](ebook/Rubbina%20Azzalfa_13040124140118_Resume.pdf)-Rubbina
