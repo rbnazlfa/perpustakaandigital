@@ -5,7 +5,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 1. [Pola Perilaku](ebook/Pola%20Perilaku.pdf)-Gustina Erlianti
 2. [Implementasi TI](ebook/Implementasi%20TI.pdf)-Muhammad Fiqry Taufiqurrahman (2022)
 3. [jurnal psikologi](ebook/jurnal%20psikologi.pdf)-Asrini Mahdia
-4. [Media Sosial](ebook/Media%20Sosial.pdf)-Lailatur Rahmi
+4. [Media Sosial](ebook/Media%20Sosial.pdf)-Lailatur Rahmi (2023)
 5. [Minat Baca](ebook/Minat%20Baca.pdf)-Miftahul Jannah
 6. [Pencarian Informasi](ebook/Pencarian%20Informasi.pdf)-Muhammad Nurfadillah
 7. [Pengaruh Desain](ebook/Pengaruh%20Desain.pdf)-Sri Wahyuni Panjaitan
