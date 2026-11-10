@@ -1,3 +1,6 @@
+Nama : Rubbina Azzalfa
+NIM : 13040124140118
+Kelas C
 # Digital Library 
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
@@ -13,7 +16,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Transformasi](ebook/Transformasi.pdf)-Mohamad Djaenudin (2020)
 10. [Visualisasi](ebook/Visualisasi.pdf)-Anton Risparyanto
 11. [Rubbina Azzalfa_13040124140118_Resume](ebook/Rubbina%20Azzalfa_13040124140118_Resume.pdf)-Rubbina
-
-Nama : Rubbina Azzalfa (13040124140118)
 
 Powered by GitHub Pages
